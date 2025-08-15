@@ -5,3 +5,5 @@ payload:
   - DOMAIN-SUFFIX,dmmgames.com
   - DOMAIN-SUFFIX,dmm.hk
   - DOMAIN-SUFFIX,dmm-extension.com
+  - DOMAIN-SUFFIX,navismithapis-cdn.com
+  - DOMAIN-SUFFIX,navismithapis.com
