@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 236
+# TOTAL: 247
 
 payload:
   - DOMAIN-KEYWORD,quickconnect
@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,112114.xyz
   - DOMAIN-SUFFIX,115cdn.de
   - DOMAIN-SUFFIX,1996999.xyz
+  - DOMAIN-SUFFIX,204cloud.com
   - DOMAIN-SUFFIX,51wanxue.com
   - DOMAIN-SUFFIX,51zmt.top
   - DOMAIN-SUFFIX,52jiawei.com
@@ -66,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,englibrary.com
   - DOMAIN-SUFFIX,epg.aptv.app
   - DOMAIN-SUFFIX,epg.v1.mk
+  - DOMAIN-SUFFIX,feihengip.com
   - DOMAIN-SUFFIX,feizhiyi.com
   - DOMAIN-SUFFIX,ffhome.com
   - DOMAIN-SUFFIX,flingtrainer.com
@@ -78,6 +80,7 @@ payload:
   - DOMAIN-SUFFIX,fzwqq.com
   - DOMAIN-SUFFIX,gaishitongshu.com
   - DOMAIN-SUFFIX,game.maj-soul.com
+  - DOMAIN-SUFFIX,gaojiua.com
   - DOMAIN-SUFFIX,gdcucc.v1.mk
   - DOMAIN-SUFFIX,ggbond.org
   - DOMAIN-SUFFIX,gh-proxy.com
@@ -108,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,gsstic.com
   - DOMAIN-SUFFIX,gxnnjidingkeji.top
   - DOMAIN-SUFFIX,gzybao.com
+  - DOMAIN-SUFFIX,halvie.com
   - DOMAIN-SUFFIX,hbcof.com
   - DOMAIN-SUFFIX,hbctic.com
   - DOMAIN-SUFFIX,hexiny.com
@@ -147,9 +151,13 @@ payload:
   - DOMAIN-SUFFIX,letaoedu.com
   - DOMAIN-SUFFIX,longmenshuju.com
   - DOMAIN-SUFFIX,lsbj365.com
+  - DOMAIN-SUFFIX,lyihub.com
+  - DOMAIN-SUFFIX,lyilife.com
+  - DOMAIN-SUFFIX,meishiffx.online
   - DOMAIN-SUFFIX,members.3322.org
   - DOMAIN-SUFFIX,micu.hk
   - DOMAIN-SUFFIX,mifeng.plus
+  - DOMAIN-SUFFIX,mobai.sbs
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,mslmc.net
@@ -175,6 +183,7 @@ payload:
   - DOMAIN-SUFFIX,plusus3.younoyes.com
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,powershellgallery.com
+  - DOMAIN-SUFFIX,privateapi.xyz
   - DOMAIN-SUFFIX,qianuni.com
   - DOMAIN-SUFFIX,qiaoxuesi.com
   - DOMAIN-SUFFIX,qinglue.com
@@ -197,6 +206,7 @@ payload:
   - DOMAIN-SUFFIX,sxlljm.com
   - DOMAIN-SUFFIX,tailgdd.com
   - DOMAIN-SUFFIX,tangguobaohe.com
+  - DOMAIN-SUFFIX,tclai.top
   - DOMAIN-SUFFIX,tcp.pub
   - DOMAIN-SUFFIX,tcy365.net
   - DOMAIN-SUFFIX,thinkerride.com
@@ -218,6 +228,7 @@ payload:
   - DOMAIN-SUFFIX,wewillpro.com
   - DOMAIN-SUFFIX,wlcdn88.com
   - DOMAIN-SUFFIX,wwwh.eu.org
+  - DOMAIN-SUFFIX,x86pi.com
   - DOMAIN-SUFFIX,xbgjw.com
   - DOMAIN-SUFFIX,xdqtech.com
   - DOMAIN-SUFFIX,xdtool.com

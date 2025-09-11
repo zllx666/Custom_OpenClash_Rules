@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 232
+# TOTAL: 243
 
 payload:
   - '*quickconnect*'
@@ -10,6 +10,7 @@ payload:
   - '+.112114.xyz'
   - '+.115cdn.de'
   - '+.1996999.xyz'
+  - '+.204cloud.com'
   - '+.51wanxue.com'
   - '+.51zmt.top'
   - '+.52jiawei.com'
@@ -66,6 +67,7 @@ payload:
   - '+.englibrary.com'
   - '+.epg.aptv.app'
   - '+.epg.v1.mk'
+  - '+.feihengip.com'
   - '+.feizhiyi.com'
   - '+.ffhome.com'
   - '+.flingtrainer.com'
@@ -78,6 +80,7 @@ payload:
   - '+.fzwqq.com'
   - '+.gaishitongshu.com'
   - '+.game.maj-soul.com'
+  - '+.gaojiua.com'
   - '+.gdcucc.v1.mk'
   - '+.ggbond.org'
   - '+.gh-proxy.com'
@@ -108,6 +111,7 @@ payload:
   - '+.gsstic.com'
   - '+.gxnnjidingkeji.top'
   - '+.gzybao.com'
+  - '+.halvie.com'
   - '+.hbcof.com'
   - '+.hbctic.com'
   - '+.hexiny.com'
@@ -147,9 +151,13 @@ payload:
   - '+.letaoedu.com'
   - '+.longmenshuju.com'
   - '+.lsbj365.com'
+  - '+.lyihub.com'
+  - '+.lyilife.com'
+  - '+.meishiffx.online'
   - '+.members.3322.org'
   - '+.micu.hk'
   - '+.mifeng.plus'
+  - '+.mobai.sbs'
   - '+.msftconnecttest.com'
   - '+.msftncsi.com'
   - '+.mslmc.net'
@@ -175,6 +183,7 @@ payload:
   - '+.plusus3.younoyes.com'
   - '+.pool.ntp.org'
   - '+.powershellgallery.com'
+  - '+.privateapi.xyz'
   - '+.qianuni.com'
   - '+.qiaoxuesi.com'
   - '+.qinglue.com'
@@ -197,6 +206,7 @@ payload:
   - '+.sxlljm.com'
   - '+.tailgdd.com'
   - '+.tangguobaohe.com'
+  - '+.tclai.top'
   - '+.tcp.pub'
   - '+.tcy365.net'
   - '+.thinkerride.com'
@@ -218,6 +228,7 @@ payload:
   - '+.wewillpro.com'
   - '+.wlcdn88.com'
   - '+.wwwh.eu.org'
+  - '+.x86pi.com'
   - '+.xbgjw.com'
   - '+.xdqtech.com'
   - '+.xdtool.com'
