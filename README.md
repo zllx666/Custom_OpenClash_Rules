@@ -37,7 +37,7 @@
 
 [OpenClash](https://github.com/vernesong/OpenClash) 无疑是 OpenWrt 下最强大的科学上网插件，它可以实现最完美的透明代理效果。
 
-本项目以中华人民共和国境内的网络环境为参考，示例如何将 OpenClash 插件设置为无感、快速、安全和省心兼顾的相对完美状态，从而达到极致优雅的透明代理科学上网体验。
+本项目示例如何将 OpenClash 插件设置为无感、快速、安全和省心兼顾的相对完美状态，从而达到极致优雅的透明代理科学上网体验。
 
 > 🧩 **彻底告别手搓配置和多个插件套娃的繁琐设置方法，保证零基础小白也能轻松看懂。**
 
@@ -332,7 +332,3 @@ Traffic、GB、Expire
 ![:访问数](https://count.getloli.com/@:Custom_OpenClash_Rules?theme=sketch-1)  
 
 2025年2月开始统计  
-
-## 🔖 广告
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
