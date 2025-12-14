@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 366
+# TOTAL: 371
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -226,6 +226,7 @@ payload:
   - DOMAIN-SUFFIX,members.3322.org
   - DOMAIN-SUFFIX,micu.hk
   - DOMAIN-SUFFIX,mifeng.plus
+  - DOMAIN-SUFFIX,mifon.com
   - DOMAIN-SUFFIX,mobai.sbs
   - DOMAIN-SUFFIX,modelscope.net
   - DOMAIN-SUFFIX,msftconnecttest.com
@@ -305,6 +306,7 @@ payload:
   - DOMAIN-SUFFIX,tcp5.com
   - DOMAIN-SUFFIX,tcy365.net
   - DOMAIN-SUFFIX,thinkerride.com
+  - DOMAIN-SUFFIX,thmnet.com
   - DOMAIN-SUFFIX,tool56.com
   - DOMAIN-SUFFIX,topwd.top
   - DOMAIN-SUFFIX,tozi-cn.top
@@ -323,12 +325,14 @@ payload:
   - DOMAIN-SUFFIX,vclbrokers.com
   - DOMAIN-SUFFIX,vcltrade.com
   - DOMAIN-SUFFIX,vgogbuy.com
+  - DOMAIN-SUFFIX,vv1865.com
   - DOMAIN-SUFFIX,warmheart.top
   - DOMAIN-SUFFIX,webs.vc
   - DOMAIN-SUFFIX,wenyi188.com
   - DOMAIN-SUFFIX,wewillpro.com
   - DOMAIN-SUFFIX,wjx.top
   - DOMAIN-SUFFIX,wlcdn88.com
+  - DOMAIN-SUFFIX,wpurl.cc
   - DOMAIN-SUFFIX,wwwh.eu.org
   - DOMAIN-SUFFIX,x86pi.com
   - DOMAIN-SUFFIX,xbgjw.com
@@ -358,6 +362,7 @@ payload:
   - DOMAIN-SUFFIX,zctnet.top
   - DOMAIN-SUFFIX,zeekrline.com
   - DOMAIN-SUFFIX,zhi10.com
+  - DOMAIN-SUFFIX,zhituwujie.com
   - DOMAIN-SUFFIX,zhixingyunke.com
   - DOMAIN-SUFFIX,zhongancloud.com
   - DOMAIN-SUFFIX,zjxhedu.com
